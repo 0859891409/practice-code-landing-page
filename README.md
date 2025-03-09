@@ -1,10 +1,12 @@
 Link deploy: https://landing-page-game-bay.vercel.app/landing-page
+
 Web:
+
  ![image](https://github.com/user-attachments/assets/09ea70b7-164c-4db8-b089-3eb4466c0ac1)
  ![image](https://github.com/user-attachments/assets/039607c6-123d-425d-b56e-ae1641a2b125)
 ![image](https://github.com/user-attachments/assets/55153d77-9e22-4b4c-b7eb-7b20ae1ea846)
 ![image](https://github.com/user-attachments/assets/1c2ddbfc-03c8-4e7a-9116-d11a6a094477)
-Footer: ![image](https://github.com/user-attachments/assets/229e7d37-ca08-477b-a9a6-46559d1a51e9)
+ ![image](https://github.com/user-attachments/assets/229e7d37-ca08-477b-a9a6-46559d1a51e9)
 
 Mobile: 
 
