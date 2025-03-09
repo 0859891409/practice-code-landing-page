@@ -1,0 +1,56 @@
+.time {
+  background: white;
+  width: 750px;
+  padding: 30px;
+  border-radius: 20px;
+  column-gap: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.flex-center {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.textTime {
+  font-size: 60px;
+  font-weight: 600;
+}
+
+@media (max-width: 768px) {
+  .bannerTitle {
+    font-size: 40px;
+  }
+  .title {
+    max-width: 90%;
+  }
+
+  .fixedPosition {
+    position: unset;
+    height: 351px;
+    width: 351px;
+    margin: 0 auto;
+    margin-top: -150px;
+  }
+
+  .time {
+    width: 90%;
+    padding: 24px;
+    font-size: 20px;
+  }
+
+  .customBox {
+    width: 90vw;
+  }
+
+  .textTime {
+    font-size: 36px;
+    font-weight: 900;
+  }
+
+  .textTime + h2 {
+    font-size: 12px;
+    font-weight: 700;
+  }
+}
