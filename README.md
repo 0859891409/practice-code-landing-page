@@ -6,7 +6,7 @@ Session: ![image](https://github.com/user-attachments/assets/039607c6-123d-425d-
 Footer: ![image](https://github.com/user-attachments/assets/229e7d37-ca08-477b-a9a6-46559d1a51e9)
 Mobile: 
 ![image](https://github.com/user-attachments/assets/b8a4a62b-63db-41d7-b686-4a51d404b692)
-![image](https://github.com/user-attachments/assets/9f7a510b-5c3f-4543-9a0a-02c0c4142624)
+![image](https://github.com/user-attachments/assets/83f71420-5944-4ff5-9b29-5d3c15932335)
 ![image](https://github.com/user-attachments/assets/b636ba33-60ee-439f-9f27-1cfda6092b5a)
 ![image](https://github.com/user-attachments/assets/cd779ee4-78fc-47dd-a0d8-acd27c55cf0c)
 
